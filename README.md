@@ -1,4 +1,4 @@
-<p align="center"><b>Animal Sort - Playable Ads Game</b></p>
+<p align="center"><b>Animal Sort Game</b></p>
 <p align="center"><b>The screen contains animals icons. The player interacts with them and sorts into thematic categories.</b></p>
 
 # <p align="center"><img src="https://github.com/user-attachments/assets/a2803aff-3670-47b4-a54d-e7da54b95f4f"></p>
